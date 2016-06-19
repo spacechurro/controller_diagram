@@ -1,0 +1,18 @@
+GIT
+  remote: https://github.com/glejeune/ruby-yuml.git
+  revision: afc8ce4ce0e0904fc9ff76d8741a3abf1b5b0b3a
+  specs:
+    ruby-yuml (0.2.0)
+
+GEM
+  remote: http://rubygems.org/
+  specs:
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  ruby-yuml!
+
+BUNDLED WITH
+   1.10.6
